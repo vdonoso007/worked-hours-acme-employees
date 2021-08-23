@@ -9,8 +9,8 @@ Requirements:
 
 1. You must have installed composer and php.
 2. Go to root directory and run composer install command
-3. For listing Worked Hours Employees in console, go to "apps/payroll/v1/employee" directory and run "php bin/console ioet:list-worked-hours-employees" command
-4. For listing PayRoll Acme Employees in console, go to "apps/payroll/v1/employee" directory and run "php bin/console ioet:pyroll" command
+3. For listing Worked Hours Employees in console, go to "apps/payroll/v1/employee" directory and run "php bin/console ioet:list-worked-hours-employees ~/Worked-Hours-ACME-EMPLOYESS.txt" command
+4. For listing PayRoll Acme Employees in console, go to "apps/payroll/v1/employee" directory and run "php bin/console ioet:pyroll ~/Worked-Hours-ACME-EMPLOYESS.txt" command
 
 For testing purposes:
 
